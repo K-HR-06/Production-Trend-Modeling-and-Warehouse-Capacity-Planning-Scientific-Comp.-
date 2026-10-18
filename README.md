@@ -39,7 +39,6 @@ These values use the notebook's zero-based time scale, where `0` corresponds to 
 | --- | --- |
 | `aol_data.xlsx - in.csv` | Monthly production data |
 | `ScientifcComputingAOL.ipynb` | Modeling, visualization, and capacity calculations |
-| `AOL_ScientificComputing.docx` | Project report in Word format |
 | `AOL_ScientificComputing.pdf` | Project report in PDF format |
 | `Case Study.pdf` | Assignment background and requirements |
 
