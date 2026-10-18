@@ -54,7 +54,9 @@ data = pd.read_csv("aol_data.xlsx - in.csv", sep=";")
 
 Run the notebook cells in order to generate the plots and estimates.
 
-## Author
+## Authors
 
-**Marcell Prasetyo**
-Computer Science and Statistics
+**Computer Science and Statistics — BINUS University**
+
+Marcell Prasetyo
+
