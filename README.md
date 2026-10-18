@@ -57,5 +57,5 @@ Run the notebook cells in order to generate the plots and estimates.
 
 ## Author
 
-**Marcell Prasetyo** — 2702229895  
+**Marcell Prasetyo**
 Computer Science and Statistics
